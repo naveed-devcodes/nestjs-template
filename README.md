@@ -111,6 +111,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
   📧 **Email**: ArhamZahid.dev@gmail.com  
   🌐 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/arhamzahid-dev/)
 
-## License
-
-Nest is [MIT licensed](LICENSE).
